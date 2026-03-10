@@ -4,7 +4,7 @@
 
 /* ── Container — keep your background image ── */
 .lg-container {
-  background-image: url("D:\Projects\FULL STACK PROJECT\student-complaint-frontend\src\Images\ChatGPT Image Feb 20, 2026, 12_17_00 PM.png");
+  background-image: url('../Images/ChatGPT Image Feb 20, 2026, 12_17_00 PM.png');
   min-height: 100vh;
   width: 100%;
   display: flex;
